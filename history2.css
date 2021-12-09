@@ -1,0 +1,40 @@
+.mul{
+    font-size: 5rem;
+    border-bottom: 3rem;
+    border-color: black;
+    margin-top: 6rem;
+    border-width: 1rem;
+    border-style: double;
+}
+.jel{
+    background-color: aqua;
+}
+.hev{
+    margin-top: 3rem;
+    border-top: 0.4rem;
+    border-style: dashed;
+    margin-right: 50rem;
+}
+.sel{
+    height: 20rem;
+    width: 22rem;
+    margin-top: 10rem;
+}
+.mul2{
+    font-size: 1rem;
+    border-bottom: 3rem;
+    border-color: black;
+    margin-top: 6rem;
+    border-width: 0.8rem;
+    border-style: double;
+    margin-right: 50rem;
+}
+.sale{
+    margin-left: 45rem;
+}
+.world{
+    padding-right: 15rem;
+    border-top: 1rem;
+    border-style: solid;
+    border-color: black;
+}
